@@ -1,1 +1,1 @@
-Console
+# Nancy Windows Service - Example
